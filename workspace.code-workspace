@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\B262"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "social cards"
+	}
+}
